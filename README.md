@@ -11,6 +11,6 @@ The purpose of this repository is to revamp my knowledge on pure JavaScript as w
 
 ## Log
 
-|Changes made|Date|
+|Milestones|Date|
 |------------|----|
-|<ul><li>Created linked list module</li><li>Created linked list test driver</li><li>Created skeletal file for project</li></ul>|5/2/2022|
+|Created base LinkedList class and bind tests|5/2/2022|
